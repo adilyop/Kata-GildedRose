@@ -1,5 +1,3 @@
-
-const QualityMaxValue = 50;
 const SellInMinValue = 0;
 const QualityMinValue = 0;
 
@@ -29,6 +27,5 @@ class DefaultProduct {
         return item;
     }
 }
-
 
 module.exports = DefaultProduct;

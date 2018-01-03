@@ -1,4 +1,3 @@
-
 const QualityMaxValue = 50;
 const SellInMinValue = 0;
 
@@ -28,6 +27,5 @@ class AgedBrie {
         return item;
     }
 }
-
 
 module.exports = AgedBrie;

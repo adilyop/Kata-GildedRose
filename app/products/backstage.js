@@ -3,7 +3,6 @@ const QualityMaxValue = 50;
 const QualityMinValue = 0;
 const SellInFirstThreshold = 5;
 const SellInSecondThreshold = 10;
-
 class Backstage {
     constructor(name, quality, sellIn) {
         this.name = name;

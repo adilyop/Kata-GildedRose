@@ -1,4 +1,3 @@
-
 class Sulfuras {
     constructor(name, quality, sellIn){
         this.name = name;
@@ -10,6 +9,5 @@ class Sulfuras {
         return item;
     }
 }
-
 
 module.exports = Sulfuras;
