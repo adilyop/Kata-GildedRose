@@ -20,6 +20,7 @@ class Backstage extends Item{
             this.quality += 1;
         }
     }
+
     updateQuality () {
         this.decrementSellIn();
         this.incrementQuality();

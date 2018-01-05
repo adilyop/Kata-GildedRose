@@ -1,8 +1,5 @@
-
-// const itemStrategy = require('../itemStrategy');
-
 class Item {
-    constructor(name, quality, sellIn){
+    constructor(name, quality, sellIn) {
         this.name = name;
         this.sellIn = sellIn;
         this.quality = quality;
