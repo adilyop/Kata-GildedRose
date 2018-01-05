@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+.idea/
+
+.nyc_output/
+
+package-lock.json
+
